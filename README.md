@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Itsthecarebear
-- 👀 I’m interested in hacking, gaming, & welding
-- 🌱 I’m currently completing the eJPT certification
-- 💞️ I’m looking to collaborate on cool scripts and stuff
-- 📫 How to reach me LinkedIn 
-- ⚡ Fun fact: Combat vet turned horse trainer/goat raiser
+- 👀 I’m interested in ethical hacking, programming, and building automation
+- 🌱 I’m currently levelling up
+- 💞️ I’m looking to collaborate on java and python programs
+- ⚡ Fun fact: Combat vet turned programmer/goat raiser
 
 <!---
 Itsthecarebear/Itsthecarebear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
